@@ -1,0 +1,1 @@
+import{at as a}from"./CUF3ZWrq.js";const i=a("main",{state:()=>({flags:{loaded:!1,menu:!1,light:!1,transition:!1,fixed:!1},global:{},site:{}}),actions:{setFlag(s,t){s in this.flags&&(this.flags[s]=t)},setSite(s){this.site=s},setGlobal(s){this.global=s}}});export{i as u};

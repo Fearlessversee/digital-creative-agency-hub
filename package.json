@@ -1,0 +1,25 @@
+{
+  "name": "@taliyo/digital-agency-platform",
+  "version": "1.0.0",
+  "description": "Full-scale agency experience with Nuxt, Tailwind CSS, animated SVG anatomy, interactive service breakdowns, and smooth scroll animations.",
+  "private": true,
+  "author": "Taliyo Technologies <info@taliyotechnologies.com>",
+  "homepage": "https://www.taliyotechnologies.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/virajverse/digital-agency-platform.git"
+  },
+  "scripts": {
+    "start": "python serve.py",
+    "dev": "python serve.py",
+    "preview": "python serve.py"
+  },
+  "keywords": [
+    "taliyo-technologies",
+    "virajverse",
+    "commercial-product",
+    "modern-b2b-saas-agency-platform",
+    "frontend-showcase"
+  ],
+  "license": "Commercial / Proprietary"
+}

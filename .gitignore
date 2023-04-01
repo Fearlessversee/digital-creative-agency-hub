@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+real_site_source.txt
+*source*.txt
+*catalog*.txt
